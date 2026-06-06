@@ -1,7 +1,7 @@
 # Research-Agent-Governance
 面向 AI Agent 的轻量级治理规范。
 
-![cover](cover.png)
+<img src="cover.png" alt="cover" width="600">
 
 适用于：
 
